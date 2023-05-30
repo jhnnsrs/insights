@@ -1,0 +1,7 @@
+author: jhnnsrs
+entrypoint: app
+identifier: insights
+requirements: []
+scopes:
+- read
+version: 0.2.0

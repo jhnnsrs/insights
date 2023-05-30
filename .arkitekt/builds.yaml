@@ -1,0 +1,42 @@
+builds:
+- build_id: c1a617cb-264d-4d34-871d-736abf15e1e3
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: insights
+    requirements: []
+    scopes:
+    - read
+    version: dev
+- build_id: 1fbd177c-262f-4762-8dd6-a82e58d19781
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: insights
+    requirements: []
+    scopes:
+    - read
+    version: 0.2.0
+- build_id: c1156bb5-1ca0-44ce-86c8-029ac997813d
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: insights
+    requirements: []
+    scopes:
+    - read
+    version: 0.2.0
+latest_build:
+  build_id: c1156bb5-1ca0-44ce-86c8-029ac997813d
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: insights
+    requirements: []
+    scopes:
+    - read
+    version: 0.2.0
