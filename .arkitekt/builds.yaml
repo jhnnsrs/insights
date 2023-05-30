@@ -29,8 +29,18 @@ builds:
     scopes:
     - read
     version: 0.2.0
+- build_id: c9b60e6d-1c5f-4581-bf36-bce689dce19a
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: insights
+    requirements: []
+    scopes:
+    - read
+    version: 0.2.0
 latest_build:
-  build_id: c1156bb5-1ca0-44ce-86c8-029ac997813d
+  build_id: c9b60e6d-1c5f-4581-bf36-bce689dce19a
   builder: port
   manifest:
     author: jhnnsrs
