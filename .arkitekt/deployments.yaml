@@ -10,3 +10,15 @@ deployments:
   scopes:
   - read
   version: 0.2.0
+- author: jhnnsrs
+  command: arkitekt run port
+  created_at: '2023-05-31T09:24:06.407969'
+  definitions: []
+  entrypoint: app
+  identifier: insights
+  image: jhnnsrs/insights:0.2.2
+  requirements: []
+  scopes:
+  - read
+  version: 0.2.2
+latest_deployment: '2023-05-31T09:24:27.132223'

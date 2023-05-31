@@ -39,8 +39,7 @@ builds:
     scopes:
     - read
     version: 0.2.0
-latest_build:
-  build_id: c9b60e6d-1c5f-4581-bf36-bce689dce19a
+- build_id: 47fe6af7-d86f-4e20-86c6-5590f021074b
   builder: port
   manifest:
     author: jhnnsrs
@@ -49,4 +48,25 @@ latest_build:
     requirements: []
     scopes:
     - read
-    version: 0.2.0
+    version: 0.2.1
+- build_id: 6b8af099-e1f5-411b-8bfd-6a4a5fc94dc5
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: insights
+    requirements: []
+    scopes:
+    - read
+    version: 0.2.2
+latest_build:
+  build_id: 6b8af099-e1f5-411b-8bfd-6a4a5fc94dc5
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: insights
+    requirements: []
+    scopes:
+    - read
+    version: 0.2.2
