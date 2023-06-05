@@ -4,4 +4,4 @@ identifier: insights
 requirements: []
 scopes:
 - read
-version: 0.2.2
+version: 0.2.3
